@@ -7,5 +7,8 @@
 - [`docs/METRICS.md`](docs/METRICS.md) — похожесть, реранкинг, точность
 - [`docs/DEPLOYMENT.md`](docs/DEPLOYMENT.md) — запуск и эксплуатация (Docker, ручная установка, systemd)
 - [`Этикетка_AI.pdf`](Этикетка_AI.pdf) — презентация решения
+- [`DeskTopWeb720.mp4`](DeskTopWeb720.mp4) — демонстрация: веб-интерфейс на десктопе
+- [`MobileWeb720.mp4`](MobileWeb720.mp4) — демонстрация: веб-интерфейс на мобильном
+- [`MobileApp720.mp4`](MobileApp720.mp4) — демонстрация: мобильное приложение
 
 Код сервиса — в отдельном репозитории: [wine-scanner-hackathon](https://github.com/scanner-team/wine-scanner-hackathon).
